@@ -24,7 +24,7 @@ Feel free to reach out if you're interested in collaboration. Let's connect and 
 • Chatbots: Blip / Dialog Flow / IBM Watson
 • Project Management: Agile / Scrum
 
-### 🌐 Dive into the Excitement!
+### Dive into the Excitement!
 
 Ready for some excitement? Dive into the fun by exploring [pedromatos.me](https://pedromatos.me)! 🚀
 
