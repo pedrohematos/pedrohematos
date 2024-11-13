@@ -1,6 +1,6 @@
 ## 💻 `console.log('Hello, human!')`
 
-I'm Pedro, a passionate Full Stack Software Developer. With experience both in Brazil and abroad, I've contributed to various technology companies, lending my skills to development, product support, and commercial sales. My professional journey spans across industries like energy, mobile, healthcare, and finance.
+I'm Pedro, a passionate Full Stack Software Developer. With experience in Australia and Brazil, I've contributed to various technology companies, lending my skills to development, product support, and commercial sales. My professional journey spans across industries like energy, mobile, healthcare, and finance.
 
 What drew me to tech was the community's dedication to continuous improvement and learning, which resonates with my very own mindset and work ethic.
 
@@ -13,7 +13,7 @@ Feel free to reach out if you're interested in collaboration. Let's connect and 
 💻 Fullstack Web Developer  
 👷🏻 BSc. Electrical Engineering graduate from UFMG - Belo Horizonte, Brazil  
 ✈ Experienced traveler, including living and working abroad  
-🗣 Fluent in English, Portuguese, and proficient in Spanish 🇺🇸 🇧🇷 🇪🇸 
+🗣 Fluent in English and Portuguese 🇦🇺 🇧🇷  
 
 ### My Stack
 
